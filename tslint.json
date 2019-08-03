@@ -1,0 +1,7 @@
+{
+  "extends": "@infinumjs/tslint-config",
+  "rules": {
+    "completed-docs": false,
+    "no-console": false
+  }
+}
