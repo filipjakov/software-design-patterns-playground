@@ -5,7 +5,7 @@
 1. How can a class be independent of how the objects it requires are created?
 2. How can different families of related or dependent objects be created?
 
-## Definition
+## Description
 
 **Provide an interface for creating families of related or dependent objects without specifying their concrete classes.**
 
