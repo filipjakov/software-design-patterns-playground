@@ -3,6 +3,7 @@
   "rules": {
     "completed-docs": false,
     "no-console": false,
-    "max-classes-per-file": false
+    "max-classes-per-file": false,
+    "no-non-null-assertion": false
   }
 }
