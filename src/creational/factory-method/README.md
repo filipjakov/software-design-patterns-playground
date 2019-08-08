@@ -54,7 +54,3 @@
 - Factory Method - Prototype
 - Iterator - Factory Method
 - Template Method - Factory Method
-
-## [GoF] wisdom
-
-- useful quotes from the gang-of-four book
