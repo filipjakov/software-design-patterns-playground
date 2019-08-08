@@ -20,8 +20,8 @@
 
 ![UML diagram of the pattern](./assets/*.ext)
 
-- key role1 (etc. Client)
-- key role2 (etc. Builder)
+1. key role1 (etc. Client)
+2. key role2 (etc. Builder)
 ..
 
 ## Scenario
